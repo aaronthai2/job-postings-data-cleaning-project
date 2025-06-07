@@ -12,6 +12,11 @@ This project focuses on cleaning and transforming job listing data. Key steps in
 - **Removed -1 values** in the `Competitors` column.
 - **Standardized job titles and company descriptions** for better readability.
 
+## 📊 Cleaned Dataset
+
+You can find the cleaned and transformed dataset here:  
+[Cleaned_Glassdoor_DS_Postings.xlsx](./Cleaned_Glassdoor_DS_Postings.xlsx)
+
 ## 📂 Original Dataset
 
 The original dataset used in this project is publicly available on Kaggle:  
