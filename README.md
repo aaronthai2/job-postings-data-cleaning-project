@@ -1,7 +1,8 @@
 ## 🔧 Data Cleaning & Transformation
 
-This project focuses on cleaning and transforming job listing data. Key steps include:
+This project focuses on cleaning and transforming job listing data.
 
+Key Steps:
 - **Removed invalid characters**: Fixed encoding issues like `â€™`, `â€¢`, and others.
 - **Cleaned textual clutter**: Removed headers like "Who are we?", question marks, asterisks, and “Thank you” lines.
 - **Normalized revenue data**:
